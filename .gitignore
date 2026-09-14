@@ -1,0 +1,10 @@
+# Foundry build output and deployment records
+out/
+cache/
+broadcast/
+
+# Local secrets (deployer keys, network URLs)
+.env
+
+# macOS folder metadata
+.DS_Store
